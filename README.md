@@ -5,7 +5,7 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/Abhiraj595/twitter-analytics.git
+git clone https://github.com/Abhirajp595/twitter-analytics.git
 cd twitter-analytics
 Install Dependencies:
 
