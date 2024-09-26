@@ -1,0 +1,10 @@
+Part 1
+Ingest the data: figure out a way to put the data in a structure so that you can query it as described in Part 2.
+Part 2
+Construct functionality that allows you to query the data. If I search for a term, like “music,” I would like to know some subset of the following:
+How many tweets were posted containing the term on each day?
+How many unique users posted a tweet containing the term?
+How many likes did tweets containing the term get, on average?
+Where (in terms of place IDs) did the tweets come from?
+What times of day were the tweets posted at? 
+Which user posted the most tweets containing the term?
